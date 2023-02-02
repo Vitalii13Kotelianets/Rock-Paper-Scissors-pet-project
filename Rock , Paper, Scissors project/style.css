@@ -1,0 +1,10 @@
+#start-game-btn {
+  border: 3px solid orangered;
+  border-radius: 30px;
+  background-color: transparent;
+  display: block;
+  margin: 250px auto;
+  padding: 60px 150px;
+  font-size: 40px;
+  cursor: pointer;
+}
